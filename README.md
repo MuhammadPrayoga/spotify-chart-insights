@@ -30,8 +30,7 @@ Beberapa pertanyaan yang dijawab dalam analisis ini:
 spotify-chart-insights/
 ├── data/
 │   └── spotify-streaming-top-50-world.csv  # Dataset mentah
-├── spotify_analysis.ipynb 
-│                     # Analisis eksploratif (Python + Pandas + Matplotlib/Seaborn)
+├── spotify_analysis.ipynb   # Analisis eksploratif (Python + Pandas + Matplotlib/Seaborn)
 ├── README.md
 └── requirements.txt
 ```
