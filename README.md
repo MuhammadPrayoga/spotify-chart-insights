@@ -44,7 +44,7 @@ spotify-chart-insights/
 ## Cara Menjalankan
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/namakamu/spotify-chart-insights.git
+   git clone https://github.com/MuhammadPrayoga/spotify-chart-insights.git
    cd spotify-chart-insights
    ```
 2. (Opsional) Buat environment virtual:
